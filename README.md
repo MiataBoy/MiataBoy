@@ -6,7 +6,7 @@ I am a proud, gay furry and I have a lovely [boyfriend](https://github.com/Tooth
 ### projects 💻
 I'm developer, main creator 
 and social media manager of both 
-[exorium](https://github.com/ThePawKingdom/exorium/
+[exorium](https://github.com/ThePawKingdom/exorium/)
 and [eravon](https://github.com/BluewyDev/eravon)
 
 Besides that I also work on some other projects.
