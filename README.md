@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! I'm Bluewy 👋🏻
+Hello! I'm Bluewy,
+a developer in discord.py and discord.js.
+I am a proud, gay furry and I have a lovely [boyfriend](https://github.com/ToothyDev)!
 
-<!--
-**BluewyDev/BluewyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### projects
+I'm developer, main creator 
+and social media manager of both 
+[exorium](https://github.com/ThePawKingdom/exorium/
+and [eravon](https://github.com/BluewyDev/eravon)
 
-Here are some ideas to get you started:
+Besides that I also work on some other projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact options
