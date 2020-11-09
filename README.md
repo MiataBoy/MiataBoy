@@ -15,3 +15,8 @@ Besides that I also work on some other projects.
 You can contact me [on discord](https://discord.com/users/698080201158033409). 
 You can also contact me [on Twitter](https://Twitter.com/profile/Bluewydahoosk)
 or through [telegram](https://t.me/BluewyStraats).
+
+![Bluewy's discord status](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/698080201158033409)
+![Playing](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/698080201158033409)
+![vscode](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/698080201158033409)
+![Spotify](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/698080201158033409)
