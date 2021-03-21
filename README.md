@@ -1,7 +1,7 @@
 ### Hi! I'm Bluewy 👋🏻
 Hello! I'm Bluewy,
 a discord.py and discord.js developer.
-I am a proud, gay furry, and I have a lovely [boyfriend](https://github.com/ToothyDev)!
+I am a gay male tho you can use any pronouns for me. I literally wouldn't care if you call me female
 
 ### Projects 💻
 I'm the developer, main creator, 
