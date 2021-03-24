@@ -5,12 +5,15 @@ I am a gay male tho you can use any pronouns for me. I literally wouldn't care i
 
 ### Projects 💻
 I'm the developer, main creator, 
-and social media manager of both 
-[exorium](https://github.com/ThePawKingdom/exorium/)
-[Spyro](https://github.com/BluewyDev/Spyro)
+and social media manager of:
+
+- [exorium](https://github.com/ThePawKingdom/exorium/)
+
+- [Spyro](https://github.com/BluewyDev/Spyro)
 
 I have contributed to the following projects:
-[ModBot](https://github.com/aternosorg/Modbot)
+
+- [ModBot](https://github.com/aternosorg/Modbot)
 
 Besides that I also work on some other projects.
 
