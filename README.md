@@ -29,3 +29,6 @@ or through [telegram](https://t.me/BluewyStraats).
 -->
 
 I am a moderator of the [aternos discord](https://chat.aternos.org) and a helper on the [aternos forums](https://board.aternos.org). I have an interest in providing support to people as well as programming, writing and other things. I rarely have time for games anymore so if you are my friend and i say no to playing a game, don't look surprised.
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScourgeTheHedgehog&show_icons=true&theme=tokyonight&hide_border=true)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScourgeTheHedgehog&theme=tokyonight&hide_border=true)
