@@ -1,13 +1,10 @@
-### Hi! I'm Bluewy 👋🏻
-Hello! I'm Bluewy,
-a discord.py and discord.js developer.
-I am a gay male tho you can use any pronouns for me. I literally wouldn't care if you call me female
+### Hi! I'm Scourge 👋🏻
+Hello! I'm Scourge, also known as Joshua by my legal name.
+I'm a discord.py and discord.js developer as well as a web developer.
 
 ### Projects 💻
 I'm the developer, main creator, 
 and social media manager of:
-
-- [exorium](https://github.com/ThePawKingdom/exorium/)
 
 - [Spyro](https://github.com/BluewyDev/Spyro)
 
@@ -18,9 +15,8 @@ I have contributed to the following projects:
 Besides that I also work on some other projects.
 
 ### Contact options 📳
-You can contact me [on discord](https://discord.com/users/698080201158033409). 
-You can also contact me [on Twitter](https://Twitter.com/profile/Bluewydahoosk)
-or through [telegram](https://t.me/BluewyStraats).
+You can contact me [on discord](https://discord.com/users/843866750131109909). 
+You can also contact me [on Twitter](https://Twitter.com/profile/SShadowDawn)
 <!--
 ![Bluewy's discord status](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/698080201158033409)
 ![Playing](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/698080201158033409)
