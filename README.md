@@ -16,7 +16,7 @@ Besides that I also work on some other projects.
 
 ### Contact options 📳
 You can contact me [on discord](https://discord.com/users/843866750131109909). 
-You can also contact me [on Twitter](https://Twitter.com/profile/SShadowDawn)
+You can also contact me [on Twitter](https://Twitter.com/profile/ZoniqHedgehog)
 <!--
 ![Bluewy's discord status](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/698080201158033409)
 ![Playing](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/698080201158033409)
