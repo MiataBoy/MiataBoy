@@ -21,8 +21,6 @@
 - Website moderator @ [Discord Extreme List](https://discordextremelist.xyz) - Discord's unbiased bots/servers/templates list.
 - Approver @ [Discord Labs](https://bots.discordlabs.org/) - Discord's bots list.
 
-<!--
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScourgeTheHedgehog&show_icons=true&theme=tokyonight&hide_border=true)
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScourgeTheHedgehog&theme=tokyonight&hide_border=true)
-![](https://github.com/ScourgeTheHedgehog/github-stats/blob/master/generated/overview.svg)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=JoshuaSlui&theme=merko&hide_border=true&show_icons=True&layout=compact)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScourgeTheHedgehog&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github.com/ScourgeTheHedgehog/github-stats/blob/master/generated/overview.svg)
