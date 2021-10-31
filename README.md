@@ -1,7 +1,6 @@
-### Hi! I'm Faze 👋
+# About me
 
-#### Hello! I'm Faze, also known as Joshua by my legal name.
-#### I'm a Javascript, Python and Web developer.
+#### Hello 👋 I'm Faze, or Joshua as per my legal name. I'm a 15 year old male from The Netherlands with a passion for discord bot- and web development. Want to know more about me, or want to contact me about something else? You can [mail to me](mailto:zoniqhedgehog@gmail.com), DM or tweet out to [my twitter](https://twitter.com/FazeHedgehog), or you can find me [on discord](https://discord.com/users/843866750131109909).
 
 #### I currently know the following languages:
 - Javascript
