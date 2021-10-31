@@ -1,14 +1,11 @@
 ### Hi! I'm Faze 👋
 
-Hello! I'm Faze, also known as Joshua by my legal name.
-I'm a Javascript, Python and Web developer.
+#### Hello! I'm Faze, also known as Joshua by my legal name.
+#### I'm a Javascript, Python and Web developer.
 
-I currently know the following languages:
-#### Programming
+#### I currently know the following languages:
 - Javascript
 - Python
-
-#### Web development
 - PHP
 - CSS
 - HTML
