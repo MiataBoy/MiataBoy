@@ -1,31 +1,35 @@
-### Hi! I'm Scourge 👋🏻
-Hello! I'm Scourge, also known as Joshua by my legal name.
-I'm a discord.py and discord.js developer as well as a web developer.
+### Hi! I'm Faze 👋
+
+Hello! I'm Faze, also known as Joshua by my legal name.
+I'm a Javascript, Python and Web developer.
+
+I currently know the following languages:
+**Programming**
+- Javascript
+- Python
+
+**Web development**
+- PHP
+- CSS
+- HTML
 
 ### Projects 💻
-I'm the developer, main creator, 
-and social media manager of:
+**Active projects i developed**
+[PsychOps](https://psychops.tk) - Open Source products, Free forever.
+[Pingernos](https://psychops.tk/pingernos.php) - Get Aternos server information directly in discord.
+[Varumox](https://varumox.tk) - Quality plugins, at no cost.
 
-- [Spyro](https://github.com/BluewyDev/Spyro)
-
-I have contributed to the following projects:
-
-- [ModBot](https://github.com/aternosorg/Modbot)
-
-Besides that I also work on some other projects.
+**Other projects**
+Moderator @ [Dredd](https://github.com/Dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features, including miscellaneous stuff, automod and much more.
+Moderator & helper @ [Aternos](https://aternos.org) - Minecraft servers. Free. Forever.
+Website moderator @ [Discord Extreme List](https://discordextremelist.xyz) - Discord's unbiased bots/servers/templates list.
+Approver @ [Discord Labs](https://bots.discordlabs.org/) - Discord's bots list.
 
 ### Contact options 📳
 You can contact me [on discord](https://discord.com/users/843866750131109909). 
-You can also contact me [on Twitter](https://Twitter.com/profile/ZoniqHedgehog)
+You can also contact me [on Twitter](https://Twitter.com/ZoniqHedgehog).
+
 <!--
-![Bluewy's discord status](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/698080201158033409)
-![Playing](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/698080201158033409)
-![vscode](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/698080201158033409)
-![Spotify](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/698080201158033409)
--->
-
-I am a moderator of the [aternos discord](https://chat.aternos.org) and a helper on the [aternos forums](https://board.aternos.org). I have an interest in providing support to people as well as programming, writing and other things. I rarely have time for games anymore so if you are my friend and i say no to playing a game, don't look surprised.
-
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScourgeTheHedgehog&show_icons=true&theme=tokyonight&hide_border=true)
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScourgeTheHedgehog&theme=tokyonight&hide_border=true)
 ![](https://github.com/ScourgeTheHedgehog/github-stats/blob/master/generated/overview.svg)
