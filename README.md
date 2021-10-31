@@ -17,7 +17,7 @@
 - [Varumox](https://varumox.tk) - Quality plugins, at no cost.
 
 #### Other projects
-- Moderator @ [Dredd](https://github.com/Dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features, including miscellaneous stuff, automod and much more.
+- Moderator @ [Dredd](https://github.com/Dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features.
 - Moderator & helper @ [Aternos](https://aternos.org) - Minecraft servers. Free. Forever.
 - Website moderator @ [Discord Extreme List](https://discordextremelist.xyz) - Discord's unbiased bots/servers/templates list.
 - Approver @ [Discord Labs](https://bots.discordlabs.org/) - Discord's bots list.
