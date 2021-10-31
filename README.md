@@ -21,11 +21,6 @@
 - Website moderator @ [Discord Extreme List](https://discordextremelist.xyz) - Discord's unbiased bots/servers/templates list.
 - Approver @ [Discord Labs](https://bots.discordlabs.org/) - Discord's bots list.
 
-### Contact options 📳
-You can contact me [on discord](https://discord.com/users/843866750131109909). 
-
-You can also contact me [on Twitter](https://Twitter.com/ZoniqHedgehog).
-
 <!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScourgeTheHedgehog&show_icons=true&theme=tokyonight&hide_border=true)
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScourgeTheHedgehog&theme=tokyonight&hide_border=true)
