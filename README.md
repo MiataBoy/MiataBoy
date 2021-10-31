@@ -4,31 +4,26 @@ Hello! I'm Faze, also known as Joshua by my legal name.
 I'm a Javascript, Python and Web developer.
 
 I currently know the following languages:
-**Programming**
+#### Programming
 - Javascript
 - Python
 
-**Web development**
+#### Web development
 - PHP
 - CSS
 - HTML
 
 ### Projects 💻
-**Active projects i developed**
-[PsychOps](https://psychops.tk) - Open Source products, Free forever.
+#### Active projects i developed
+- [PsychOps](https://psychops.tk) - Open Source products, Free forever.
+- [Pingernos](https://psychops.tk/pingernos.php) - Get Aternos server information directly in discord.
+- [Varumox](https://varumox.tk) - Quality plugins, at no cost.
 
-[Pingernos](https://psychops.tk/pingernos.php) - Get Aternos server information directly in discord.
-
-[Varumox](https://varumox.tk) - Quality plugins, at no cost.
-
-**Other projects**
-Moderator @ [Dredd](https://github.com/Dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features, including miscellaneous stuff, automod and much more.
-
-Moderator & helper @ [Aternos](https://aternos.org) - Minecraft servers. Free. Forever.
-
-Website moderator @ [Discord Extreme List](https://discordextremelist.xyz) - Discord's unbiased bots/servers/templates list.
-
-Approver @ [Discord Labs](https://bots.discordlabs.org/) - Discord's bots list.
+#### Other projects
+- Moderator @ [Dredd](https://github.com/Dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features, including miscellaneous stuff, automod and much more.
+- Moderator & helper @ [Aternos](https://aternos.org) - Minecraft servers. Free. Forever.
+- Website moderator @ [Discord Extreme List](https://discordextremelist.xyz) - Discord's unbiased bots/servers/templates list.
+- Approver @ [Discord Labs](https://bots.discordlabs.org/) - Discord's bots list.
 
 ### Contact options 📳
 You can contact me [on discord](https://discord.com/users/843866750131109909). 
