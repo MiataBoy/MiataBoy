@@ -10,12 +10,11 @@
 
 ### Projects 💻
 #### Active projects i developed
-- [PsychOps](https://psychops.tk) - Open Source products, Free forever.
-- [Pingernos](https://psychops.tk/pingernos.php) - Get Aternos server information directly in discord.
-- [Varumox](https://varumox.tk) - Quality plugins, at no cost.
+- [PsychOps](https://psychops.eu) - Open Source products, Free forever.
+- [Pingernos](https://psychops.eu/pingernos.php) - Get Aternos server information directly in discord.
 
 #### Other projects
-<!-- - Manager @ [Dredd](https://github.com/Dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features. -->
+- Manager @ [Dredd](https://github.com/Dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features.
 - Moderator & helper @ [Aternos](https://aternos.org) - Minecraft servers. Free. Forever.
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=DeltaSLM&theme=merko&hide_border=true&show_icons=True&layout=compact)
