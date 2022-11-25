@@ -25,7 +25,7 @@
 - Manager @ [Dredd](https://github.com/Dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features.
 - Moderator & helper @ [Aternos](https://aternos.org) - Minecraft servers. Free. Forever.
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=DeltaSLM&theme=merko&hide_border=true&show_icons=True&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=MiataBoy&theme=merko&hide_border=true&show_icons=True&layout=compact)
 <!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScourgeTheHedgehog&show_icons=true&theme=tokyonight&hide_border=true)
 -->
