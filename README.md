@@ -68,4 +68,4 @@ Hello, i'm Joshua Slui. I'm a 16 year old dutch student on ROC Da Vinci in Dordr
 <!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScourgeTheHedgehog&show_icons=true&theme=tokyonight&hide_border=true)
 -->
-![](https://github.com/ScourgeTheHedgehog/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/JoshuaSlui/github-stats/blob/master/generated/overview.svg)
