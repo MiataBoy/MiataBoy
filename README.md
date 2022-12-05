@@ -64,6 +64,8 @@ Hello, i'm Joshua Slui. I'm a 16 year old dutch student on ROC Da Vinci in Dordr
 - Moderator & helper @ [Aternos](https://aternos.org) - Minecraft servers. Free. Forever.
 - Former Customer Service and Support as well as CHRO and HR at Hosting HQ LLC, No longer active.
 
+**Contact me for my resumé**
+
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=MiataBoy&theme=merko&hide_border=true&show_icons=True&layout=compact)
 <!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScourgeTheHedgehog&show_icons=true&theme=tokyonight&hide_border=true)
