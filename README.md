@@ -23,7 +23,7 @@ Hallo, Ik ben Joshua Slui. Ik ben een 16 jarige student op ROC Da Vinci te Dordr
 ### Projecten
 #### Projecten van mij
 - [PsychOps](https://psychops.eu) - FOSS producten. Niet meer actief.
-- [FyukiGames](https://github.com/FyukiGames) - text-based terminal game development organizatie
+- [BlackFur](https://github.com/BlackFurORG) - Van alles en nog wat voor jou entertainment.
 - [Pingernos](https://github.com/PsychOps/serverpinger) - Een Discord Bot die Aternos server statuses laat zien.
 
 #### Anders
