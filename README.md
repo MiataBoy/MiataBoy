@@ -2,7 +2,7 @@
 [English version here](https://github.com/MiataBoy/MiataBoy/blob/main/en/intro.MD)
 
 ## **Nederlands 🇳🇱**
-Hallo, Ik ben Joshua Slui. Ik ben een 16 jarige student op ROC Da Vinci te Dordrecht en heb een passie voor software- en web development, en studeer daarom Software Development. Ik ben altijd beschikbaar om een gesprek mee te hebben, en beantwoord graag overige vragen die mensen voor me hebben. Heb jij er een? [mail naar mij](mailto:miataboymx@gmail.com) of neem contact op via Twitter: https://twitter.com/MiataBoyMX
+Hallo, Ik ben Joshua Slui. Ik ben een 16 jarige student op ROC Da Vinci te Dordrecht en heb een passie voor software- en web development, en studeer daarom Software Development. Ik ben altijd beschikbaar om een gesprek mee te hebben, en beantwoord graag overige vragen die mensen voor me hebben. Heb jij er een? [mail naar mij](mailto:joshuaslui0203@gmail.com)
 
 ### Ik ken momenteel de volgende programmeertalen:
 - Javascript
@@ -14,11 +14,11 @@ Hallo, Ik ben Joshua Slui. Ik ben een 16 jarige student op ROC Da Vinci te Dordr
 
 ### Ik weet mijn weg te vinden in:
 - MySQL
-- PostgreSQL
 - Linux server administratie
 - Linux distributies
 - Linux server onderhoud
 - Leidersschap en management
+- nginx (basics)
 
 ### Projecten
 #### Projecten van mij
