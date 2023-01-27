@@ -38,3 +38,5 @@ Hallo, Ik ben Joshua Slui. Ik ben een 16 jarige student op ROC Da Vinci te Dordr
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScourgeTheHedgehog&show_icons=true&theme=tokyonight&hide_border=true)
 -->
 ![](https://github.com/JoshuaSlui/github-stats/blob/master/generated/overview.svg)
+Vind me op linkedIn:
+https://www.linkedin.com/in/joshuaslui/
