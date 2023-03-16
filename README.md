@@ -2,7 +2,7 @@
 [English version here](https://github.com/MiataBoy/MiataBoy/blob/main/en/intro.MD)
 
 ## **Nederlands 🇳🇱**
-Hallo, Ik ben Joshua Slui. Ik ben een 16 jarige student op ROC Da Vinci te Dordrecht en heb een passie voor software- en web development, en studeer daarom Software Development. Ik ben altijd beschikbaar om een gesprek mee te hebben, en beantwoord graag overige vragen die mensen voor me hebben. Heb jij er een? [mail naar mij](mailto:joshuaslui0203@gmail.com)
+Hallo, Ik ben Joshua Slui. Ik ben een 17 jarige student op ROC Da Vinci te Dordrecht en heb een passie voor software- en web development, en studeer daarom Software Development. Ik ben altijd beschikbaar om een gesprek mee te hebben, en beantwoord graag overige vragen die mensen voor me hebben. Heb jij er een? [mail naar mij](mailto:joshuaslui0203@gmail.com)
 
 ### Ik ken momenteel de volgende programmeertalen:
 - Javascript
@@ -23,12 +23,13 @@ Hallo, Ik ben Joshua Slui. Ik ben een 16 jarige student op ROC Da Vinci te Dordr
 ### Projecten
 #### Projecten van mij
 - [PsychOps](https://psychops.eu) - FOSS producten. Niet meer actief.
-- [BlackFur](https://github.com/BlackFurORG) - Van alles en nog wat voor jou entertainment.
-- [Pingernos](https://github.com/PsychOps/serverpinger) - Een Discord Bot die Aternos server statuses laat zien.
+- [Blue Atomic](https://github.com/BlackFurORG) - Van alles en nog wat voor jou entertainment.
+- [Pingernos](https://github.com/BlackFurORG/serverpinger) - Een Discord Bot die Aternos server statuses laat zien.
 
 #### Anders
 - Moderator & helper @ [Aternos](https://aternos.org) - Minecraft servers. Free. Forever.
-- Manager @ [Dredd](https://github.com/Dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features.
+- Manager @ [Dredd](https://github.com/Dredd-bot/Dredd) (Bot offline gehaald) - Free, multipurpose Discord bot which offers a lot of features.
+- Manager @ [Sallify](https://github.com/Sallify) - Sallify is a company that was rebranded from Dredd and is aiming to release cool things 😎
 - Voormalig klantenondersteuning en service, zowel als CHRO en HR in Hosting HQ LLC, niet meer actief.
 
 **Neem contact met mij op voor mijn CV.**
