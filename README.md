@@ -8,6 +8,7 @@ Hallo, Ik ben Joshua Slui. Ik ben een 17 jarige student op ROC Da Vinci te Dordr
 - Javascript
 - Python
 - PHP (basiskennis)
+- Java (Beperkte basiskennis)
 - CSS
 - HTML
 - JSON
