@@ -31,4 +31,4 @@ Hello, i'm Joshua Slui. I'm a 16 year old dutch student on ROC Da Vinci in Dordr
 
 **Contact me for my resumé**
 
-<img src="https://profile-counter.glitch.me/soapy7261/count.svg"></a> people have been here
+<img src="https://profile-counter.glitch.me/miataboy/count.svg"></a> people have been here
