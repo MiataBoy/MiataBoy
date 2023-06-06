@@ -30,3 +30,5 @@ Hello, i'm Joshua Slui. I'm a 16 year old dutch student on ROC Da Vinci in Dordr
 - Former Customer Service and Support as well as CHRO and HR at Hosting HQ LLC, No longer active.
 
 **Contact me for my resumé**
+
+<img src="https://profile-counter.glitch.me/miataboy/count.svg"></a> people have been here

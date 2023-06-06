@@ -42,3 +42,5 @@ Hallo, Ik ben Joshua Slui. Ik ben een 17 jarige student op ROC Da Vinci te Dordr
 ![](https://github.com/JoshuaSlui/github-stats/blob/master/generated/overview.svg)
 Vind me op linkedIn:
 https://www.linkedin.com/in/joshuaslui/
+
+<img src="https://profile-counter.glitch.me/miataboy/count.svg"></a> mensen hebben deze bio bezocht
