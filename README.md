@@ -24,8 +24,8 @@ Hallo, Ik ben Joshua Slui. Ik ben een 17 jarige student op ROC Da Vinci te Dordr
 ### Projecten
 #### Projecten van mij
 - [PsychOps](https://psychops.eu) - FOSS producten. Niet meer actief.
-- [Blue Atomic](https://github.com/BlackFurORG) - Van alles en nog wat voor jou entertainment.
-- [Pingernos](https://github.com/BlackFurORG/serverpinger) - Een Discord Bot die Aternos server statuses laat zien.
+- [Blue Atomic](https://github.com/BlueAtomic) - We are a FOSS organization, aiming to fill the gaps in markets that lack FOSS software.
+- [Pingernos](https://github.com/BlueAtomic/pingernos) - Een Discord Bot die Aternos server statuses laat zien.
 
 #### Anders
 - Moderator & helper @ [Aternos](https://aternos.org) - Minecraft servers. Free. Forever.
